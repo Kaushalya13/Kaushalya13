@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS and JavaScript**
 
-- 👯 I’m looking to collaborate on [Chat Application](https://github.com/Kaushalya13/Chat-Application.git)
+- 👯 I’m looking to collaborate on [My Protfolio](https://github.com/Kaushalya13/MyPortfolio.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kaushalya13?tab=repositories](https://github.com/Kaushalya13?tab=repositories)
 
