@@ -14,13 +14,9 @@
 <p  align="center">
   - 🌱 I’m currently learning Spring Boot.
 </p>&nbsp;&nbsp;
- 
+
 <p  align="center">
-   - 👯 I’m looking to collaborate on https://github.com/Kaushalya13.
-</p>&nbsp;&nbsp;
- 
-<p  align="center">
-    - 👨‍💻 All of my projects are available at [https://github.com/Kaushalya13?tab=repositories](https://github.com/Kaushalya13?tab=repositories).
+    - 👨‍💻 All of my projects are available at https://github.com/Kaushalya13
 </p>&nbsp;&nbsp;
 
 <p  align="center">
