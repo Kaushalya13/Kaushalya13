@@ -9,7 +9,7 @@
 
 <p aline='center'>
   - 🔭 I’m currently working on AAD Final CouserWork.
-  
+ </p>
   - 🌱 I’m currently learning **Spring Boot**
   
   - 👯 I’m looking to collaborate on https://github.com/Kaushalya13.
@@ -17,7 +17,6 @@
   - 👨‍💻 All of my projects are available at [https://github.com/Kaushalya13?tab=repositories](https://github.com/Kaushalya13?tab=repositories)
   
   - 📫 How to reach me **nimanthikaushalya13@gmail.com**
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kaushalya7804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushalya7804" height="30" width="40" /></a>
