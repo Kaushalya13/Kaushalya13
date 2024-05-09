@@ -12,7 +12,7 @@
 </p>&nbsp;&nbsp;
 
 <p  align="center">
-  - 🌱 I’m currently learning **Spring Boot** 
+  - 🌱 I’m currently learning Spring Boot.
 </p>&nbsp;&nbsp;
  
 <p  align="center">
@@ -20,11 +20,11 @@
 </p>&nbsp;&nbsp;
  
 <p  align="center">
-    - 👨‍💻 All of my projects are available at [https://github.com/Kaushalya13?tab=repositories](https://github.com/Kaushalya13?tab=repositories)
+    - 👨‍💻 All of my projects are available at [https://github.com/Kaushalya13?tab=repositories](https://github.com/Kaushalya13?tab=repositories).
 </p>&nbsp;&nbsp;
 
 <p  align="center">
-  - 📫 How to reach me **nimanthikaushalya13@gmail.com**
+  - 📫 How to reach me nimanthikaushalya13@gmail.com.
 </p>
 
 <h3 align="center">Connect with me:</h3>
