@@ -20,7 +20,7 @@
 </p>&nbsp;&nbsp;
 
 <p  align="center">
-  📫 How to reach me **nethpalijayaweera@gmail.com**
+  📫 How to reach me nimanthikaushalya13@gmail.com
 </p>
 
 <h3 align="center">Connect with me:</h3>
