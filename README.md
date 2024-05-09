@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Niwanthi Kaushalya</h1>
 <h3 align="center">Software Engineer Student</h3>
 
-<img src="https://img.freepik.com/premium-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-866.jpg?size=626&ext=jpg&ga=GA1.1.439497511.1687503909&semt=ais" width="500px" align='center'>
+<p  aline='center'>
+  <img src="https://img.freepik.com/premium-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-866.jpg?size=626&ext=jpg&ga=GA1.1.439497511.1687503909&semt=ais" width="500px">
+</p>
 
 - 🔭 I’m currently working on AAD Final CouserWork.
 
