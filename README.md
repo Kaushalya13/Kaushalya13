@@ -9,13 +9,21 @@
 
 <p align="center">
    - 🔭 I’m currently working on AAD Final CouserWork.
-  
-  - 🌱 I’m currently learning **Spring Boot**
-  
-  - 👯 I’m looking to collaborate on https://github.com/Kaushalya13.
-  
-  - 👨‍💻 All of my projects are available at [https://github.com/Kaushalya13?tab=repositories](https://github.com/Kaushalya13?tab=repositories)
-  
+</p>
+
+<p  align="center">
+  - 🌱 I’m currently learning **Spring Boot** 
+</p>
+ 
+<p  align="center">
+   - 👯 I’m looking to collaborate on https://github.com/Kaushalya13.
+</p>
+ 
+<p  align="center">
+    - 👨‍💻 All of my projects are available at [https://github.com/Kaushalya13?tab=repositories](https://github.com/Kaushalya13?tab=repositories)
+</p>
+
+<p  align="center">
   - 📫 How to reach me **nimanthikaushalya13@gmail.com**
 </p>
 
