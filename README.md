@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on (https://github.com/Kaushalya13).
+- 👯 I’m looking to collaborate on https://github.com/Kaushalya13.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kaushalya13?tab=repositories](https://github.com/Kaushalya13?tab=repositories)
 
