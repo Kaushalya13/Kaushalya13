@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [My Protfolio](https://github.com/Kaushalya13/MyPortfolio.git)
 
-- 🌱 I’m currently learning **HTML,CSS and JavaScript**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on [My Protfolio](https://github.com/Kaushalya13/MyPortfolio.git)
 
