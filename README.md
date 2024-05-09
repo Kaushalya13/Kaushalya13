@@ -5,7 +5,7 @@
 
 <img src="https://img.freepik.com/premium-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-866.jpg?size=626&ext=jpg&ga=GA1.1.439497511.1687503909&semt=ais">
 
-- 🔭 I’m currently working on [My Protfolio](https://github.com/Kaushalya13/MyPortfolio.git)
+- 🔭 I’m currently working on AAD Final CouserWork.
 
 - 🌱 I’m currently learning **Spring Boot**
 
