@@ -12,7 +12,7 @@
 </p>&nbsp;&nbsp;
 
 <p  align="center">
-  - 🌱 I’m currently learning Spring Boot.
+  - 🌱 I’m currently learning Web service & Machine Learning.
 </p>&nbsp;&nbsp;
 
 <p  align="center">
