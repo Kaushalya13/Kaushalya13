@@ -8,7 +8,7 @@
 </div>&nbsp;&nbsp;
 
 <p align="center">
-   - 🔭 I’m currently working on AAD Final CouserWork.
+   - 🔭 I’m currently working on ML Final CouserWork.
 </p>&nbsp;&nbsp;
 
 <p  align="center">
