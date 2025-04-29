@@ -7,14 +7,6 @@
   <img src="https://img.freepik.com/premium-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-866.jpg?size=626&ext=jpg&ga=GA1.1.439497511.1687503909&semt=ais" width="500px">
 </div>&nbsp;&nbsp;
 
-<p align="center">
-   - 🔭 I’m currently working on ML Final CouserWork.
-</p>&nbsp;&nbsp;
-
-<p  align="center">
-  - 🌱 I’m currently learning Web service & Machine Learning.
-</p>&nbsp;&nbsp;
-
 <p  align="center">
     - 👨‍💻 All of my projects are available at https://github.com/Kaushalya13
 </p>&nbsp;&nbsp;
